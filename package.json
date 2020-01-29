@@ -1,0 +1,24 @@
+{
+  "name": "ElectronFundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbarsott/ElectronFundamentals.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbarsott/ElectronFundamentals/issues"
+  },
+  "homepage": "https://github.com/mbarsott/ElectronFundamentals#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
